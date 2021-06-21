@@ -25,15 +25,15 @@ python3 plot.py --root-path .
 
 ### Categorical latent code:
 
-![mnist](http://mhocke.userpage.fu-berlin.de/courses/igml/figures/mnist.png)
+![mnist](https://mhocke.userpage.fu-berlin.de/courses/igml/figures/mnist.png)
 
 ### First continuous latent code (rotation):
 
-![rotation](http://mhocke.userpage.fu-berlin.de/courses/igml/figures/rotation.png)
+![rotation](https://mhocke.userpage.fu-berlin.de/courses/igml/figures/rotation.png)
 
 ### Second continuous latent code (width?):
 
-![width](http://mhocke.userpage.fu-berlin.de/courses/igml/figures/width.png)
+![width](https://mhocke.userpage.fu-berlin.de/courses/igml/figures/width.png)
 
 ## Original paper
 
